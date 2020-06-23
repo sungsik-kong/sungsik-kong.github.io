@@ -32,7 +32,7 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 <!--************CODE GEOMAP************-->
 <script type="text/javascript" src="https://geoloc1.geovisite.ovh/private/geomap.js?compte=swk56bpqef7m"></script>
 <noscript>
-<a href="http://www.geovisites.com/en/directory/sciences_biology.php?compte=swk56bpqef7m"  target="_blank"><img src="https://geoloc1.geovisite.ovh/private/geomap.php?compte=swk56bpqef7m" border="0" alt="biology"></a>
+<a href="http://www.geovisites.com/en/directory/sciences_biology.php?compte=swk56bpqef7m"  target="_blank"><img src="https://geoloc1.geovisite.ovh/private/geomap.php?compte=swk56bpqef7m" border="0"></a>
 
 <!--<br>Please do not change this code for a perfect fonctionality of your counter-->
 <!--<a href="http://www.geovisites.com/en/directory/sciences_biology.php">biology</a>->
