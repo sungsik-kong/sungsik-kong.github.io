@@ -34,8 +34,8 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 <noscript>
 <a href="http://www.geovisites.com/en/directory/sciences_biology.php?compte=swk56bpqef7m"  target="_blank"><img src="https://geoloc1.geovisite.ovh/private/geomap.php?compte=swk56bpqef7m" border="0" alt="biology"></a>
 
-<br>Please do not change this code for a perfect fonctionality of your counter
-<a href="http://www.geovisites.com/en/directory/sciences_biology.php">biology</a>
+<!--<br>Please do not change this code for a perfect fonctionality of your counter-->
+<!--<a href="http://www.geovisites.com/en/directory/sciences_biology.php">biology</a>->
 <!--</noscript><br><a href="http://www.geovisite.com/en/">website counter free</a>-->
 <!--************END CODE GEOMAP************-->
 
