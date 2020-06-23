@@ -36,6 +36,7 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 
 <br>Please do not change this code for a perfect fonctionality of your counter
 <a href="http://www.geovisites.com/en/directory/sciences_biology.php">biology</a>
-</noscript><br><a href="http://www.geovisite.com/en/">website counter free</a><!--************END CODE GEOMAP************-->
+<!--</noscript><br><a href="http://www.geovisite.com/en/">website counter free</a>-->
+<!--************END CODE GEOMAP************-->
 
 
