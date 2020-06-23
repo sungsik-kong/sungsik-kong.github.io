@@ -29,9 +29,5 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 
 <p>I bicycled through rural China for more than a thousand kilometers (from Shandong province to Guangdong province) until my bike broke in suburban Shenzhen. I motor-biked into the mountains of Vietnam, following the Ho Chi Minh trail, where the remnants of the war were still noticeable. I volunteered in an elementary school in Thailand, the Primate Research Center in Indonesia and <a href="https://www.facebook.com/Laos.Kuang.Si.Butterflypark/">Kuang Si Butterflypark</a>&nbsp;(my paradise) in Laos. Myanmar is one of the countries where I have the best memories, but the ongoing violent clashes between Shan and Palaung tribes in Shan province frightened me, the tension there was significantly higher than in Pakistan or Xinjiang, China. Riding the days-long overcrowded trains in India and China was physically and mentally challenging, but the outcomes of those challenges, like trekking in the Himalayas, are some of my most precious memories.</p>
 
-<!--************CODE GEOMAP************-->
-<a href="http://www.geovisites.com/en/directory/sciences_biology.php?compte=swk56bpqef7m"  target="_blank"><img src="https://geoloc1.geovisite.ovh/private/geomap.php?compte=swk56bpqef7m&base=geoloc1" border="0" alt="biology"></a><br><a>
-<!--href="http://www.geovisite.com/en/">html code for visitor counter</a>************END CODE GEOMAP************-->
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5d4f6ghsoet&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
