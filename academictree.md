@@ -1,3 +1,13 @@
+---
+title: Academic Tree
+date: 2020-07-03
+tags:
+  - Academic Tree
+  - d3js
+  - Statistics
+  - Biology
+---
+
 <div id="observablehq-6ed8e5ab"></div>
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
