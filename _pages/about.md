@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Summary <a href="/cv/cv.pdf" target="_blank">[cv]</a>
+## <a href="as.html">Summary</a> <a href="/cv/cv.pdf" target="_blank">[cv]</a>
 
 <div>
 <p><a href="https://eeob.osu.edu/people/kong.362">I</a> am a Ph.D. Candidate at <a href="https://eeob.osu.edu">the Department of Evolution, Ecology and Organismal Biology</a> at&nbsp;<a href="https://www.osu.edu">the Ohio State University</a> under supervision of Professor&nbsp;<a href="https://www.asc.ohio-state.edu/kubatko.2/">Laura Kubatko</a> from fall 2018. I am interested&nbsp;in methods for inferring phylogenetic networks and hybrid speciation under the coalescent model.</p>
