@@ -33,4 +33,12 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 
 <p>I bicycled through rural China for more than a thousand kilometers (from Shandong province to Guangdong province) until my bike broke in suburban Shenzhen. I motor-biked into the mountains of Vietnam, following the Ho Chi Minh trail, where the remnants of the war were still noticeable. I volunteered in an elementary school in Thailand, the Primate Research Center in Indonesia and <a href="https://www.facebook.com/Laos.Kuang.Si.Butterflypark/">Kuang Si Butterflypark</a>&nbsp;(my paradise) in Laos. Myanmar is one of the countries where I have the best memories, but the ongoing violent clashes between Shan and Palaung tribes in Shan province frightened me, the tension there was significantly higher than in Pakistan or Xinjiang, China. Riding the days-long overcrowded trains in India and China was physically and mentally challenging, but the outcomes of those challenges, like trekking in the Himalayas, are some of my most precious memories.</p>
 
+<div id="observablehq-42caf203"></div>
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@minglabaaa/mobile-patent-suits.js?v=3";
+const inspect = Inspector.into("#observablehq-42caf203");
+(new Runtime).module(define, name => name === "chart" ? inspect() : undefined);
+</script>
+
 <p style="text-align:left"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5f7qb9psyf3&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=300" async="async"></script> </p> 
