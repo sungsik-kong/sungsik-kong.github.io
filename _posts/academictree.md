@@ -1,6 +1,7 @@
 ---
 title: Academic Tree
 date: 2020-07-03
+permalink: /posts/academictree/
 tags:
   - Academic Tree
   - d3js
