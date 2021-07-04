@@ -1,35 +1,14 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/   
-
   - title: "Research"
-    url: /research/   
+    url: /research/
 
   - title: "Publications"
-    url: /publications/ 
+    url: /publications/
 
   - title: "Post"
-    url: /post/   
-
-  - title: "People"
-    url: /people/   
+    url: /post/
 
   - title: "Travel"
-    url: /year-archive/   
-
-#  - title: "Research"
-#    url: /cv/ 
-
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-           
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+    url: /year-archive/
