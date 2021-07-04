@@ -9,3 +9,6 @@ main:
 
   - title: "Travel"
     url: /travel/
+
+  - title: "Travel2"
+    url: /year-archive/
