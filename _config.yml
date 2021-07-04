@@ -122,7 +122,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _portfolio
   - _travel
   - files
 exclude:
