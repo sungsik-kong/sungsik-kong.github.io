@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Travel"
+permalink: /travel/
 author_profile: true
 ---
 
