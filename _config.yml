@@ -123,6 +123,7 @@ include:
   - .htaccess
   - _pages
   - _portfolio
+  - _posts
   - files
 exclude:
   - "*.sublime-project"
