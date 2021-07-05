@@ -224,7 +224,7 @@ defaults:
   # _travel
   - scope:
       path: ""
-      type: travel
+      type: posts
     values:
       layout: single
       author_profile: true
