@@ -5,7 +5,7 @@ main:
     url: /research/
 
   - title: "Posts"
-    url: /publications/
+    url: /posts/
 
   - title: "Travel"
     url: /travel/
