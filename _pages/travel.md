@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "World Travel Notessss"
-permalink: /travel/
+title: "Posts2"
+permalink: /posts/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.travel reversed %}
+{% for post in site.posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
