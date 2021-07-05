@@ -221,15 +221,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
-# _travel
+  # _travel
   - scope:
       path: ""
-      type: travel
+      type: posts
     values:
       layout: single
       author_profile: true
-      share: true
+      read_time: true
       comments: true
+      share: true
+      related: true
   # _publications
   - scope:
       path: ""

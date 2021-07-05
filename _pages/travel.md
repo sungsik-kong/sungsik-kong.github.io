@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "World Travel Notess"
+title: "World Travel Notesss"
 permalink: /travel/
 author_profile: true
 ---
