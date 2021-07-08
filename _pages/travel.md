@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Travels"
+title: "Travel"
 permalink: /travel/
 author_profile: true
 ---
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.posts reversed %}
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
