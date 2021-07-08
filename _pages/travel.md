@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts3"
+title: "Travel"
 permalink: /travel/
 author_profile: true
 ---

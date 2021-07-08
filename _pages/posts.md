@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts"
+title: "Postss"
 permalink: /posts/
 author_profile: true
 ---
