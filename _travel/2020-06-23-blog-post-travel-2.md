@@ -1,7 +1,7 @@
 ---
 title: Myanmar
 date: 2020-06-23
-permalink: /travel/2020/06/blog-post-travel-2/
+permalink: /posts/2020/06/blog-post-2/
 tags:
   - World Travel
   - Asia

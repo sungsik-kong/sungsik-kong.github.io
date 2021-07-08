@@ -1,8 +1,7 @@
 ---
 title: 'So far and yet so similar: Convergent evolution in helicopter damselflies'
-collection: travel
-permalink: /travel/2020/06/blog-post-travel-1/
 date: 2019-01-27
+permalink: /posts/2019/01/blog-post-1/
 tags:
   - Evolution
   - Convergent evolution

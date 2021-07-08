@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Posts2"
-permalink: /posts/
+title: "Posts3"
+permalink: /travel/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.posts reversed %}
+{% for post in site.travel reversed %}
   {% include archive-single.html %}
 {% endfor %}
