@@ -1,7 +1,7 @@
 ---
 title: 'Wandering in the Himalayas: Route to EBC'
 date: 2020-06-23
-permalink: /posts/2020/06/blog-post-3/
+permalink: /travel/2020/06/travel-3/
 tags:
   - World Travel
   - Asia
