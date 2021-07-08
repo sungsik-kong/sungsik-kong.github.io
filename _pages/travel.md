@@ -3,7 +3,7 @@ layout: archive
 title: "Travel"
 permalink: /travel/
 author_profile: true
----
+
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
@@ -18,3 +18,7 @@ gallery:
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+   
+---
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
