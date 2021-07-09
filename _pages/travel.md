@@ -10,13 +10,18 @@ header:
 gallery:
   - image_path: photographs/myanmar.bagan1.png
     url: photographs/myanmar.bagan1.png
-    caption: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
-  - image_path: photographs/myanmar.bagan1.png
-    url: photographs/myanmar.bagan1.png
-    title: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
-  - image_path: photographs/myanmar.bagan1.png
-    url: photographs/myanmar.bagan1.png
-    title: "Myingyan, Myanmar"
+    title: "Animal Market near Myingyanမြင်းခြံ, Myanmar (February, 2018)"
+    
+  - image_path: photographs/pakistan.lahore1.png
+    url: photographs/pakistan.lahore1.png
+    title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
+    
+  - image_path: photographs/pakistan.lahore1.png
+    url: photographs/pakistan.lahore1.png
+    title: "Rainbow after the rain @ Badshahi Mosqueبادشاہی مسجد, Lahore, Pakistan (June, 2016)"
+   
+  
+  
 ---
 
 <center><p align="center">
