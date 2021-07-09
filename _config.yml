@@ -323,3 +323,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+#Sidebar
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
