@@ -9,12 +9,15 @@ header:
 
 gallery:
   - image_path: photographs/myanmar.bagan1.png
+    url: photographs/myanmar.bagan1.png
     title: "Myingyan, Myanmar"
     excerpt: "aaa"     
   - image_path: photographs/myanmar.bagan1.png
+    url: photographs/myanmar.bagan1.png
     title: "Myingyan, Myanmar"
     excerpt: "aaa"     
   - image_path: photographs/myanmar.bagan1.png
+    url: photographs/myanmar.bagan1.png
     title: "Myingyan, Myanmar"
     excerpt: "aaa"     
 ---
