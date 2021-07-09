@@ -13,7 +13,7 @@ gallery:
     title: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
   - image_path: photographs/myanmar.bagan1.png
     url: photographs/myanmar.bagan1.png
-    title: "Myingyan, Myanmar"
+    title: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
   - image_path: photographs/myanmar.bagan1.png
     url: photographs/myanmar.bagan1.png
     title: "Myingyan, Myanmar"
