@@ -12,12 +12,12 @@ gallery:
     url: photographs/myanmar.bagan1.png
     title: "Animal Market near Myingyanမြင်းခြံ, Myanmar (February, 2018)"
     
-  - image_path: photographs/pakistan.lahore1.png
-    url: photographs/pakistan.lahore1.png
+  - image_path: photographs/thailand.chiangrai1.jpeg
+    url: photographs/thailand.chiangrai1.jpeg
     title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
     
-  - image_path: photographs/pakistan.lahore1.png
-    url: photographs/pakistan.lahore1.png
+  - image_path: photographs/pakistan.lahore1.jpeg
+    url: photographs/pakistan.lahore1.jpeg
     title: "Rainbow after the rain @ Badshahi Mosqueبادشاہی مسجد, Lahore, Pakistan (June, 2016)"
    
   
