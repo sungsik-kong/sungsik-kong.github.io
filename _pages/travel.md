@@ -7,45 +7,35 @@ author_profile: true
 header: 
     image: photographs/travel_header.jpeg
 
+
+
+
+
+
+
+
+
 gallery:
-  - url: photographs/1.jpg
-    image_path: photographs/1.jpg
+%landscape
+  - url: photographs/myanmar.bagan1.png
+    image_path: photographs/myanmar.bagan1.png
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: photographs/2.jpg
-    image_path: photographs/2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: photographs/3.jpg
-    image_path: photographs/3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: kong_profile.jpg
-    image_path: kong_profile.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: photographs/kong_profile.jpg
-    image_path: photographs/kong_profile.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "Myingyan, Myanmar"
+    image_caption: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
+    excerpt: "I rented a motorbike for a week for $7 per day and rode from Mandalay to Old Bagan just to see Kyawkyaw and Papa. I found them selling postcards surrounded by a bunch of European tourists in front of [Ananda Temple](https://goo.gl/maps/dRcwnKJy7Q9Fg9kG7). I asked them what they want for lunch and they said chicken. I got Julaemon a box of chocolates, a dress for Papa, and a few dollars for Kyawkyaw. Julaemon was too young so she was just overwhelmed with boxes of sweet in both hands and Papa said this was the best day in her life, but Kyawkyaw refused my money and said he will make it through his "business". At the end of the day, I spent all my money with them so unexpectedly had some adventure to exchange my Korean won to Burmese kyat to pay my gas - because apparently no bank preferred Korean won. I promised them that I will come back."
+
+%vertical
+
       
 ---
+
+
+
+
+
+
+
+
 
 <center><p align="center">
   <img width="739" height="493" src="/images/img_9822-1.jpg"><figcaption>Me and my bike in Fujian Province, China, 2015</figcaption>
