@@ -1,6 +1,8 @@
 # main links links
 main:
-
+  - title: "Vitae"
+    url: "https://github.com/minglabaaa/minglabaaa.github.io/blob/master/cv/cvFULL.pdf"
+    
   - title: "Research"
     url: /research/
 
