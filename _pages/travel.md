@@ -40,5 +40,3 @@ gallery:
 ## Visitors
 
 <p style="text-align:left"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5f7qb9psyf3&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=300" async="async"></script> </p> 
-
-<div style="display:inline-block;width:400px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5f7qb9psyf3&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=10&amp;sx=0" async="async"></script></div>
