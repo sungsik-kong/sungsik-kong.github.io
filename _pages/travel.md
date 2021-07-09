@@ -33,4 +33,6 @@ gallery:
 ## Some posts
  <a href="/travel/2020/06/blog-post-travel-3/">Wandering in the Himalayas: Route to EBC</a>
 
+## Photo gallery
+
 {% include gallery caption="" %}
