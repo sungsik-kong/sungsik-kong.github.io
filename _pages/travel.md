@@ -11,6 +11,12 @@ gallery:
   - image_path: photographs/myanmar.bagan1.png
     title: "Myingyan, Myanmar"
     excerpt: "aaa"     
+  - image_path: photographs/myanmar.bagan1.png
+    title: "Myingyan, Myanmar"
+    excerpt: "aaa"     
+  - image_path: photographs/myanmar.bagan1.png
+    title: "Myingyan, Myanmar"
+    excerpt: "aaa"     
 ---
 
 <center><p align="center">
@@ -23,4 +29,4 @@ Some posts
  <a href="/travel/2020/06/blog-post-travel-3/">Wandering in EBC</a>
  <a href="https://www.facebook.com/Laos.Kuang.Si.Butterflypark/">Minglabaa!</a>
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="" %}
