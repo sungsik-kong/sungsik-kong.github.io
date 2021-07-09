@@ -10,7 +10,7 @@ header:
 gallery:
   - image_path: photographs/myanmar.bagan1.png
     url: photographs/myanmar.bagan1.png
-    image_caption: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
+    caption: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
   - image_path: photographs/myanmar.bagan1.png
     url: photographs/myanmar.bagan1.png
     title: "On the way back to Mandalay from Bagan, [near Myingyan local animal market](https://goo.gl/maps/QLafEiSzY5xecfb16) (Feb, 2018)"
