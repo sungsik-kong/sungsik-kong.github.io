@@ -17,8 +17,8 @@ gallery:
     image_path: /photograph/myanmar.bagan1.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: kong_profile
+    image_path: kong_profile
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
