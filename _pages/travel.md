@@ -4,7 +4,8 @@ title: "Travel"
 permalink: /travel/
 author_profile: true
 
-header: images/photographs/1.jpg
+header: 
+    image: images/photographs/1.jpg
 
 gallery:
   - url: photographs/1.jpg
