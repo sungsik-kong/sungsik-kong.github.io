@@ -5,7 +5,7 @@ permalink: /travel/
 author_profile: true
 
 header: 
-    image: photographs/1.jpg
+    image: photographs/travel_header.jpeg
 
 gallery:
   - url: photographs/1.jpg
