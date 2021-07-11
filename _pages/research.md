@@ -18,8 +18,6 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 
 ### Applications of computational methods in evolutionary biology
 
-%mjn-cladistics,pnas,thesis
-%syst biol
 
 
 
@@ -29,10 +27,7 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 
 ### Detecting hybridization in nature
 
-%lrt
 
-%heather
-%mael
 
 
 
