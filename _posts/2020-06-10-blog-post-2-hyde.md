@@ -1,7 +1,7 @@
 ---
 title: 'How to use *HyDe* in practice'
 date: 2020-06-10
-permalink: /posts/2020/06/blog-post-2/
+%permalink: /posts/2020/06/blog-post-2/
 tags:
   - Hybridization
   - Hybrid detection
