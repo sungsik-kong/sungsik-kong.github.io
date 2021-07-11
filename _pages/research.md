@@ -9,9 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+I am a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation, and their applications in practice in understanding complex evolutionary histories including hybrid speciation, introgression, and gene flow. GOOGLE SCHOLR
+
 ### Inferring phylogenetic networks and hybridization
 
 Reconstructing the 'tree of life' is the central goal in phylogenetics, however, the true relationship of taxa can never be inferred unless reticulate processes, such as hybridization, are taken into account. The network inference methods available today are largely categorized by their purposes, either to exhibit conflicting signals within data (i.e., abstract networks) or to model reticulate evolution (i.e., explicit networks), although the distinction often is vague in practice. It must be stressed that the former does not narrate evolutionary histories whereas the latter does, while being rarely used in practice due to excessive computational requirements. Because network inference using the explicit methods is NP-hard, only one or two individuals per subpopulation are included in the analysis which can result in insufficient signal to infer a relationship that is representative of the entire population. The objective for this aim is to develop a computational tool that infers phylogenetic networks with hybrid speciation using multi-locus data from multiple individuals per population with a feasible computational cost. 
+
+
+### Applications of computational methods in evolutionary biology
+
+mjn-cladistics,pnas,thesis
+syst biol
+
+
+
+
+
+
+
+### Detecting hybridization in nature
+
+lrt
+
+heather
+mael
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22,21 +53,3 @@ Tracking the spread of pandemics and the evolution of the underlying pathogens a
 Median‐joining (MJ) was proposed as a method for phylogeographical analysis and is enjoying increasing popularity. Herein, we evaluate the efficacy of the approach as originally intended. We show that median‐joining networks (MJNs) are theoretically untenable for evolutionary inference, and that confusion has afflicted their use for over 15 years. The approach has two obvious shortcomings: its reliance on distance‐based phenetics (overall similarity instead of character transformations) and the lack of rooting (no direction or history). Given that evolution involves both change and time, and the absence of rooting removes time (ancestor–descendant relationships) from the equation, the approach cannot yield defensible evolutionary interpretations. We also examine the impact of MJ analyses on evolutionary biology via an analysis of citations and conclude that the spread of MJNs through the literature is difficult …
 
 Interspecific hybridization is an important evolutionary phenomenon that generates genetic variability in a population and fosters species diversity in nature. The availability of large genome scale datasets has revolutionized hybridization studies to shift from the examination of the presence or absence of hybrids in nature to the investigation of the genomic constitution of hybrids and their genome-specific evolutionary dynamics. Although a handful of methods have been proposed in an attempt to identify hybrids, accurate detection of hybridization from genomic data remains a challenging task. The available methods can be classified broadly as site pattern frequency based and population genetic clustering approaches, though the performance of the two classes of methods under different hybridization scenarios has not been extensively examined. Here, we use simulated data to comparatively evaluate the performance of four tools that are commonly used to infer hybridization events: the site pattern frequency based methods HyDe and the D-statistic (i.e., the ABBA-BABA test), and the population clustering approaches structure and ADMIXTURE. We consider single hybridization scenarios that vary in the time of hybridization and the amount of incomplete lineage sorting (ILS) for different proportions of parental contributions (γ ); introgressive hybridization; multiple hybridization scenarios; and a mixture of ancestral and recent hybridization scenarios. We focus on the statistical power to detect hybridization, the false discovery rate (FDR) for the D-statistic and HyDe, and the accuracy of the estimates of γ as measured by the mean squared error for …
-
-### Detecting hybridization in natural systems
-
-
-
-### Evolution of primate infanticide in macroevolutionary framework
-
-While Hrdy, 1979 seminal paper proposed five hypotheses in an attempt to explain the reason for the killing of con- specific infants, the debate among primatologists is not waning for more 40 years. Among the hypotheses, sexual selection hypothesis has received high attention as it explains the behavior as male adaptive reproductive strategy and many evidences that support this hy- pothesis is available in literature. The main objective of the proposed study is to understand evolution of infanticidal behavior in non-human primates that will ultimately contribute to understand the basis of human nature. The main objective will be achieved by conducting two specific aims: (1) understanding evolution of infanticide in the Order Primates un- der macroevolutionary framework and examine coevolution of infanticide and male transfer behavior and (2) discovering biotic and abiotic factors that correlate with the rate of in- fanticide in one of the best documented non-human primates, Pan trogldytes. Both studies will rely on the field observations made in the past rather than actual observations because infanticide is difficult to observe in field and there are large accumulation of literatures. For specific aim 1, I predict that (1) infanticide persist once emerge with a few number of homoplasy and the evolution of infanticide and male transfer behavior coincides therefore supports that it is evolutionarily significant. For specific aim 2, I predict that significant positive correlation will be observed for those factors related to infanticdie (e.g., ) but neg- ative or no correlation is expected otherwise.
-
-
-
-### Conservation biology
-
-The American bullfrog, Lithobates catesbeianus, has been introduced to all continents with suitable environments and most populations are now viable. This is also the case of the Korean Peninsula, where the invasive L. catesbeianus has a significant negative impact on the local fauna. Here, we review the introduction pathway and population establishment for the species in the Republic of Korea. We then review effective population control methods and make recommendations for the most efficient ways to manage L. catesbeianus populations based on the specific enviromnent of the Republic of Korea. This is the first account of the multiple introductions of the species in the country, the past failures at population establishments, and also the first summary of population control methods that had an impact on population mitigation before their abortion. Our recommendations for population control are based on the …
-
-Anthropogenic modifications of the environment have clear negative impacts on species. These effects may reach a higher magnitude in highly altered habitats, for example in wetlands transformed into rice paddies. This is the case for the amphibian species of the genus Hynobius in the Republic of Korea, which originally breed in slow streams and valleys. However, a comparatively high proportion of the natural breeding sites used by the species in the lowlands has been transformed into rice paddies. Here, we assessed whether anthropogenic modification of wetlands leads to an additional threat to breeding Hynobius spp. in the form of increased vulnerability of their egg clutches to loach predators (Misgurnus species) in such modified habitats. We conducted weekly occurrence surveys at 27 randomly selected sites in the Republic of Korea and recorded the following information: type of site (natural versus …
-
-Most of the cetacean (Mammalia Cetacea) species are endangered due to various past human activities and most of these species are still under threat due to the same reason. We recommend the development of policies regarding whaling, trading and watching of cetaceans in the Republic of Korea. We recommend the restriction of trade in marine mammals, whether for human consumption or for entertainment purposes, and the development and adoption of ethical rules for marine mammal watching activities.
