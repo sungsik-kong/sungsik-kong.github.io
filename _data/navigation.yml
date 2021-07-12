@@ -7,7 +7,7 @@ main:
     url: /research/
 
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
 
   - title: "Travel"
     url: /travel/
