@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Postss"
+title: "Postsss"
 permalink: /year-archive/
 author_profile: true
 ---
