@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Postsss"
-permalink: /year-archive/
+title: "Postssss"
+permalink: /posts/
 author_profile: true
 ---
 
