@@ -210,6 +210,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: false
   # _pages
   - scope:
       path: ""
@@ -226,17 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _travel
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _publications
   - scope:
       path: ""
