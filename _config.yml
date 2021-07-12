@@ -218,6 +218,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: false
   # _teaching
   - scope:
       path: ""
