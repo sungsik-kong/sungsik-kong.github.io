@@ -3,6 +3,7 @@ layout: archive
 title: "PostsPublic"
 permalink: /posts/
 author_profile: true
+show_date: false
 ---
 
 {% if author.googlescholar %}
