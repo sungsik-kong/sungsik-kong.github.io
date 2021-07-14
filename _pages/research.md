@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-I am a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation, and their applications in practice in understanding complex evolutionary histories including hybrid speciation, introgression, and gene flow. GOOGLE SCHOLR
+I am a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation, and their applications in practice in understanding complex evolutionary histories including hybrid speciation, introgression, and gene flow. 
+
 
 ### Inferring phylogenetic networks and hybridization
 
@@ -22,7 +23,7 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 
 Median-joining (MJ) was proposed as a method for phylogeographical analysis and is enjoying increasing popularity. Herein, we evaluate the efficacy of the approach as originally intended. We show that median-joining networks (MJNs) are theoretically untenable for evolutionary inference, and that confusion has afflicted their use for over 15 years. The approach has two obvious shortcomings: its reliance on distance-based phenetics (overall similarity instead of character transformations) and the lack of rooting (no direction or history). Given that evolution involves both change and time, and the absence of rooting removes time (ancestor–descendant relationships) from the equation, the approach cannot yield defensible evolutionary interpretations. We also examine the impact of MJ analyses on evolutionary biology via an analysis of citations and conclude that the spread of MJNs through the literature is difficult to explain, especially given the availability of character-based analyses.
 
- <a href="https://doi.org/10.1111/cla.12147">On the use of median-joining networks in evolutionary biology</a>
+ <a href="https://doi.org/10.1111/cla.12147">On the use of median-joining networks in evolutionary biology</a><br>
  <a href="https://doi.org/10.1073/pnas.2007062117">Median-joining network analysis of SARS-CoV-2 genomes is neither phylogenetic nor evolutionary</a>
 
 
