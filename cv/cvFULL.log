@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.20)  19 NOV 2021 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.20)  31 DEC 2021 23:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -379,13 +379,13 @@ LaTeX Info: Redefining \nameref on input line 64.
 \openout3 = `cvFULL.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 104.
+(Font)              <10.95> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 104.
+(Font)              <8> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 104.
+(Font)              <6> on input line 105.
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 10
-4.
+5.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
@@ -393,18 +393,18 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4] [5]
-[6] [7] (./cvFULL.aux)
+[6] [7] [8] (./cvFULL.aux)
 Package rerunfilecheck Info: File `cvFULL.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9621 strings out of 478994
- 141275 string characters out of 5858184
- 466853 words of memory out of 5000000
- 26963 multiletter control sequences out of 15000+600000
+ 9630 strings out of 478994
+ 141382 string characters out of 5858184
+ 471884 words of memory out of 5000000
+ 26967 multiletter control sequences out of 15000+600000
  409298 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,451b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,8n,74p,451b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -412,13 +412,14 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
-texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cvFULL.pdf (7 pages, 141628 bytes).
+l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on cvFULL.pdf (8 pages, 152954 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
