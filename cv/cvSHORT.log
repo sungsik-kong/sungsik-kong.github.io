@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.20)  14 MAY 2022 18:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.20)  4 MAR 2022 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**cvFULL.tex
-(./cvFULL.tex
+**cvSHORT.tex
+(./cvSHORT.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -283,65 +283,32 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@chunks=\count275
 \LT@p@ftn=\toks23
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-)
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/textpos/textpos.sty
-Package: textpos 2020/09/26 v1.10
-
-Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
-Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box53
-\TP@holdbox=\box54
-\TPHorizModule=\dimen160
-\TPVertModule=\dimen161
-\TP@margin=\dimen162
-\TP@absmargin=\dimen163
-Grid set 16 x 16 = 38.39343pt x 49.68562pt
-\TPboxrulesize=\dimen164
-\TP@ox=\dimen165
-\TP@oy=\dimen166
-\TP@tbargs=\toks24
-TextBlockOrigin set to 0pt x 0pt
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
-\l__pdf_internal_box=\box55
-) (./cvFULL.aux)
-\openout1 = `cvFULL.aux'.
+\l__pdf_internal_box=\box53
+)
+(./cvSHORT.aux)
+\openout1 = `cvSHORT.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -380,36 +347,19 @@ LaTeX Font Info:    ... okay on input line 68.
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count277
-\scratchdimen=\dimen167
-\scratchbox=\box56
+\scratchdimen=\dimen158
+\scratchbox=\box54
 \nofMPsegments=\count278
 \nofMParguments=\count279
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count280
-\MPscratchDim=\dimen168
+\MPscratchDim=\dimen159
 \MPnumerator=\count281
 \makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks26
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+\everyMPtoPDFconversion=\toks25
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-Package hyperref Info: Link coloring OFF on input line 68.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
+Package hyperref Info: Link coloring OFF on input line 64.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -421,63 +371,55 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count283
 )
-LaTeX Info: Redefining \ref on input line 68.
-LaTeX Info: Redefining \pageref on input line 68.
-LaTeX Info: Redefining \nameref on input line 68.
- (./cvFULL.out) (./cvFULL.out)
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
+ (./cvSHORT.out) (./cvSHORT.out)
 \@outlinefile=\write3
-\openout3 = `cvFULL.out'.
-
-<miglabaaa.png, id=6, 371.3875pt x 371.3875pt>
-File: miglabaaa.png Graphic file (type png)
-<use miglabaaa.png>
-Package pdftex.def Info: miglabaaa.png  used on input line 83.
-(pdftex.def)             Requested size: 74.27617pt x 74.27617pt.
-
-Overfull \hbox (17.37096pt too wide) in paragraph at lines 83--84
-[][]  
- []
+\openout3 = `cvSHORT.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 111.
+(Font)              <10.95> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 111.
+(Font)              <8> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 111.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 11
-1.
+(Font)              <6> on input line 105.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 10
+5.
+
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./migla
-baaa.png (PNG copy)>] [2] [3] [4] [5] [6] [7] [8] [9] (./cvFULL.aux)
-Package rerunfilecheck Info: File `cvFULL.out' has not changed.
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (2.18001pt too high) has occurred while \output is active []
+
+
+[2] [3
+
+] (./cvSHORT.aux)
+Package rerunfilecheck Info: File `cvSHORT.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10053 strings out of 478994
- 148088 string characters out of 5858184
- 479208 words of memory out of 5000000
- 27361 multiletter control sequences out of 15000+600000
- 409298 words of font info for 48 fonts, out of 8000000 for 9000
+ 9580 strings out of 478994
+ 140962 string characters out of 5858184
+ 464367 words of memory out of 5000000
+ 26941 multiletter control sequences out of 15000+600000
+ 408957 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,8n,74p,451b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
-xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cvFULL.pdf (9 pages, 155526 bytes).
+ 71i,6n,74p,1595b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on cvSHORT.pdf (3 pages, 108479 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 67 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
