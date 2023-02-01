@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sungsik Kong"
 title_separator          : "-"
 name                     : &name "Sungsik Kong"
-description              : &description "Postdoctoral Scholar at University of Califonia San Diego in Siavash Mirarab's lab."
+description              : &description "Postdoctoral Scholar at University of Califonia, San Diego"
 url                      : https://sungsik-kong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sungsik-kong.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Sungsik Kong"
   avatar           : "kong_profile.jpg"
-  bio              : "Postdoctoral Scholar at UC San Diego"
+  bio              : "Postdoctoral Scholar at University of Califonia, San Diego"
   location         : "San Diego, California"
   employer         :
   pubmed           : 
