@@ -8,6 +8,10 @@ header:
     image: photographs/travel_header.jpeg
 
 gallery:
+  - image_path: photographs/laos.luangprabang1.png
+    url: photographs/laos.luangprabang1.png
+    title: "The Belle Rive Terrace, Luang Prabang, Laos (January, 2023)"
+
   - image_path: photographs/myanmar.bagan1.png
     url: photographs/myanmar.bagan1.png
     title: "Animal Market near Myingyanမြင်းခြံ, Myanmar (February, 2018)"
