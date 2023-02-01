@@ -8,7 +8,7 @@ header:
     image: photographs/travel_header.jpeg
 
 gallery:
-  - image_path: photographs/laos.luangprabang1.png
+  - image_path: photographs/laos.luangprabang1.jpg
     url: photographs/laos.luangprabang1.png
     title: "The Belle Rive Terrace, Luang Prabang, Laos (January, 2023)"
 
