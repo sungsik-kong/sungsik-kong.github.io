@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PostsPublic"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 show_date: false
