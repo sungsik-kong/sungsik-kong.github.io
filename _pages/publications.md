@@ -12,6 +12,6 @@ show_date: false
 
 {% include base_path %}
 
-{% for post in site.posts %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
