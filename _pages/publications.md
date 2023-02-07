@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 All is **good**
+\* represents equal contribution
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
