@@ -1,5 +1,5 @@
 ---
-title: "There and Back Again: The Unexpected Journeys of *Metridium* de Blainville, 1824 between the Old Oceans and throughout the Modern World"
+title: "There and back again: The unexpected journeys of *Metridium* de Blainville, 1824 between the old oceans and throughout the modern world"
 collection: publications
 date: 2023-03-13
 venue: 'The Biological Bulletin'
