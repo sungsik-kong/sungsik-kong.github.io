@@ -24,7 +24,7 @@ gallery:
     url: photographs/thailand.chiangrai1.jpeg
     title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
     
-image_path: photographs/myanmar.bagan2.jpeg
+  - image_path: photographs/myanmar.bagan2.jpeg
     url: photographs/myanmar.bagan2.jpeg
     title: "Papa, Bagan, Myanmar (February, 2016)"
 
