@@ -9,6 +9,10 @@ header:
 
 gallery:  
   
+  - image_path: photographs/china.xinjiang1.jpeg
+    url: photographs/china.xinjiang1.jpeg
+    title: "Taklamakan Desert, Xinjiang, China (August, 2016)"
+
   - image_path: photographs/nepal.kathmandu1.jpeg
     url: photographs/nepal.kathmandu1.jpeg
     title: "No one can do in Kathmandu, only cat can do, Nepal (June, 2016)"
