@@ -13,7 +13,7 @@ gallery:
     title: "Papa, Bagan, Myanmar (February, 2016)"
   
   - image_path: photographs/laos.luangprabang1.jpg
-    url: photographs/laos.luangprabang1.png
+    url: photographs/laos.luangprabang1.jpg
     title: "The Belle Rive Terrace, Luang Prabang, Laos (January, 2023)"
 
   - image_path: photographs/myanmar.bagan1.png
