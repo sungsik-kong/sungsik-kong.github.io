@@ -9,6 +9,10 @@ header:
 
 gallery:  
   
+  - image_path: photographs/nepal.kathmandu1.jpeg
+    url: photographs/nepal.kathmandu1.jpeg
+    title: "No one can do in Kathmandu, only cat can do, Nepal (June, 2016)"
+
   - image_path: photographs/laos.luangprabang1.jpg
     url: photographs/laos.luangprabang1.jpg
     title: "The Belle Rive Terrace, Luang Prabang, Laos (January, 2023)"
