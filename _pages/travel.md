@@ -8,10 +8,6 @@ header:
     image: photographs/travel_header.jpeg
 
 gallery:  
-
-  - image_path: photographs/myanmar.bagan2.jpeg
-    url: photographs/myanmar.bagan2.jpeg
-    title: "Papa, Bagan, Myanmar (February, 2016)"
   
   - image_path: photographs/laos.luangprabang1.jpg
     url: photographs/laos.luangprabang1.jpg
@@ -29,18 +25,6 @@ gallery:
     url: photographs/pakistan.lahore1.jpeg
     title: "Rainbow after the rain @ Badshahi Mosqueبادشاہی مسجد, Lahore, Pakistan (June, 2016)"
    
-  - image_path: photographs/thailand.chiangrai1.jpeg
-    url: photographs/thailand.chiangrai1.jpeg
-    title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
-
-  - image_path: photographs/thailand.chiangrai1.jpeg
-    url: photographs/thailand.chiangrai1.jpeg
-    title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
-
-  - image_path: photographs/thailand.chiangrai1.jpeg
-    url: photographs/thailand.chiangrai1.jpeg
-    title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
-  
 ---
 
 <center><p align="center">
