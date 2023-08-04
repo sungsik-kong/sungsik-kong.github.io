@@ -32,14 +32,14 @@ gallery:
   - image_path: photographs/thailand.chiangrai1.jpeg
     url: photographs/thailand.chiangrai1.jpeg
     title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
-    
-  - image_path: photographs/thailand.chiangrai1.jpeg
-      url: photographs/thailand.chiangrai1.jpeg
-      title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
 
   - image_path: photographs/thailand.chiangrai1.jpeg
-      url: photographs/thailand.chiangrai1.jpeg
-      title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
+    url: photographs/thailand.chiangrai1.jpeg
+    title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
+
+  - image_path: photographs/thailand.chiangrai1.jpeg
+    url: photographs/thailand.chiangrai1.jpeg
+    title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
   
 ---
 
