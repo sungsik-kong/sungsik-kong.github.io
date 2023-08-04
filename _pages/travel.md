@@ -7,8 +7,11 @@ author_profile: true
 header: 
     image: photographs/travel_header.jpeg
 
-gallery:
-
+gallery:  
+  - image_path: photographs/myanmar.bagan2.jpeg
+    url: photographs/myanmar.bagan2.jpeg
+    title: "Papa, Bagan, Myanmar (February, 2016)"
+  
   - image_path: photographs/laos.luangprabang1.jpg
     url: photographs/laos.luangprabang1.png
     title: "The Belle Rive Terrace, Luang Prabang, Laos (January, 2023)"
@@ -20,10 +23,6 @@ gallery:
   - image_path: photographs/thailand.chiangrai1.jpeg
     url: photographs/thailand.chiangrai1.jpeg
     title: "Fun time with friends @ Chiang Rai Rajabhat Universityมหาวิทยาลัยราชภัฏเชียงราย, Chiang Rai, Thailand (March, 2016)"
-    
-  - image_path: photographs/myanmar.bagan2.jpeg
-    url: photographs/myanmar.bagan2.jpeg
-    title: "Papa, Bagan, Myanmar (February, 2016)"
 
   - image_path: photographs/pakistan.lahore1.jpeg
     url: photographs/pakistan.lahore1.jpeg
