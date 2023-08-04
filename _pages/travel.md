@@ -8,9 +8,6 @@ header:
     image: photographs/travel_header.jpeg
 
 gallery:
-  - image_path: photographs/pakistan.hunza1.jpeg
-    url: photographs/pakistan.hunza1.jpeg
-    title: "Hunza, Pakistan (July, 2016)"
 
   - image_path: photographs/laos.luangprabang1.jpg
     url: photographs/laos.luangprabang1.png
