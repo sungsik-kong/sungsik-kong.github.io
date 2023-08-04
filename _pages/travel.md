@@ -9,6 +9,10 @@ header:
 
 gallery:  
   
+  - image_path: photographs/korea.jeju1.jpeg
+    url: photographs/korea.jeju1.jpeg
+    title: "Jeju City, Jeju Island, South Korea (March, 2017)"
+
   - image_path: photographs/china.xinjiang1.jpeg
     url: photographs/china.xinjiang1.jpeg
     title: "Taklamakan Desert, Xinjiang, China (August, 2016)"
