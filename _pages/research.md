@@ -16,9 +16,9 @@ I am a **computational evolutionary biologist** who focuses on developing method
 While phylogenetic networks can model more complex biological histories that the bifurcating trees cannot, the use of networks in evolutionary investigations is limited by the inability of existing methods to handle large datasets due to their algorithmic complexity. I propose a novel method, **PhyNEST** (Phylogenetic Network Estimation using SiTe Patterns), for inferring phylogenetic networks directly from sequence data. **PhyNEST** achieves computational efficiency by employing the composite likelihood framework in the network setting and accuracy by incorporating all sources of variability in genome data through quartet site pattern frequencies. Composite likelihood approximates the likelihood; however, it has been shown to be extremely useful in phylogenetic context and may offer a promising direction to alleviate the computational burden required to compute the full likelihood. The method is implemented in publicly available, open-source software [[download at github]](https://github.com/sungsik-kong/PhyNEST.jl).
 
 ### Relevant publications
-[Inference of phylogenetic networks from sequence data using composite likelihood](https://doi.org/10.1101/2022.11.14.516468)
-[Classes of explicit phylogenetic networks and their biological and mathematical significance](https://doi.org/10.1007/s00285-022-01746-y)
-[Digest: Frequent hybridization in *Darevskia* rarely leads to the evolution of asexuality](https://doi.org/10.1111/evo.14587)
+- [Inference of phylogenetic networks from sequence data using composite likelihood](https://doi.org/10.1101/2022.11.14.516468)
+- [Classes of explicit phylogenetic networks and their biological and mathematical significance](https://doi.org/10.1007/s00285-022-01746-y)
+- [Digest: Frequent hybridization in *Darevskia* rarely leads to the evolution of asexuality](https://doi.org/10.1111/evo.14587)
 
 ## Expanding the network space
 
