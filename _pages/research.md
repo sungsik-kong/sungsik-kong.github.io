@@ -29,8 +29,8 @@ The surge in genome-scale data has revolutionized hybridization studies, shiftin
 - [Comparative performance of popular methods for hybrid detection using genomic data](https://doi.org/10.1093/sysbio/syaa092)
 - [Anchored hybrid enrichment resolves the *Lacunicambarus* (Decapoda: Cambaridae) phylogeny](https://doi.org/10.1093/jcbiol/ruab073)
 - [Digest: Frequent hybridization in *Darevskia* rarely leads to the evolution of asexuality](https://doi.org/10.1111/evo.14462)
-- [There and Back Again: The Unexpected Journeys of *Metridium* de Blainville, 1824 between the Old Oceans and throughout the Modern World](https://doi.org/10.1086/723800)
-- [A Likelihood Ratio Test for Hybridization Under the Multispecies Coalescent](https://doi.org/10.1101/2023.06.20.545699)
+- [There and back again: The unexpected journeys of *Metridium* de Blainville, 1824 between the old oceans and throughout the modern world](https://doi.org/10.1086/723800)
+- [A likelihood ratio test for hybridization under the multispecies coalescent](https://doi.org/10.1101/2023.06.20.545699)
 
 
 
