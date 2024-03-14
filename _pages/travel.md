@@ -38,8 +38,8 @@ gallery:
     title: "Rainbow after the rain @ Badshahi Mosqueبادشاہی مسجد, Lahore, Pakistan (June, 2016)"
 
   - image_path: photographs/japan.saku1.jpeg
-      url: photographs/japan.saku1.jpeg
-      title: "Home @ Saku, Nagano, Japan (March, 2024)"    
+    url: photographs/japan.saku1.jpeg
+    title: "Home @ Saku, Nagano, Japan (March, 2024)"    
 ---
 
 <center><p align="center">
