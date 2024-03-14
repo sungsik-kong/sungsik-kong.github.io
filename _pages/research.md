@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-I am a computational evolutionary biologist who is interested in statistical and computational problems surrounding phylogenetic network estimation and their applications in practice in understanding complex evolutionary histories including hybrid speciation, introgression, and gene flow. 
+I am a **computational evolutionary biologist** who focuses on developing methods that quantitatively analyze large genomic data to answer questions arising in biology, using techniques and concepts from statistics and computer science. The overarching theme of my research topics is to infer hybridization and phylogenetic networks using genomic data.
 
-
-## Inferring phylogenetic networks and hybridization
+## Inferring phylogenetic networks from the sequence data
 
 Reconstructing the 'tree of life' is the central goal in phylogenetics, however, the true relationship of taxa can never be inferred unless reticulate processes, such as hybridization, are taken into account. The network inference methods available today are largely categorized by their purposes, either to exhibit conflicting signals within data (i.e., abstract networks) or to model reticulate evolution (i.e., explicit networks), although the distinction often is vague in practice. It must be stressed that the former does not narrate evolutionary histories whereas the latter does, while being rarely used in practice due to excessive computational requirements. Because network inference using the explicit methods is NP-hard, only one or two individuals per subpopulation are included in the analysis which can result in insufficient signal to infer a relationship that is representative of the entire population. The objective for this aim is to develop a computational tool that infers phylogenetic networks with hybrid speciation using multi-locus data from multiple individuals per population with a feasible computational cost. 
 ### Publications
@@ -21,9 +20,15 @@ Reconstructing the 'tree of life' is the central goal in phylogenetics, however,
 <a href="https://doi.org/10.1111/evo.14587">Digest: Frequent hybridization in *Darevskia* rarely leads to the evolution of asexuality</a>
 
 
+## Expanding the network space
 
+## Application of phylogenies to the real-world problems
 
-## Use of abstract networks in evolutionary biology
+## Detecting hybridization using genomic data
+
+## Advancement of machine learning in evolutionary biology
+
+## Theoretical evaluation of abstract networks in evolutionary investigations
 
 Median-joining (MJ) was proposed as a method for phylogeographical analysis and is enjoying increasing popularity. Herein, we evaluate the efficacy of the approach as originally intended. We show that median-joining networks (MJNs) are theoretically untenable for evolutionary inference, and that confusion has afflicted their use for over 15 years. The approach has two obvious shortcomings: its reliance on distance-based phenetics (overall similarity instead of character transformations) and the lack of rooting (no direction or history). Given that evolution involves both change and time, and the absence of rooting removes time (ancestor–descendant relationships) from the equation, the approach cannot yield defensible evolutionary interpretations. We also examine the impact of MJ analyses on evolutionary biology via an analysis of citations and conclude that the spread of MJNs through the literature is difficult to explain, especially given the availability of character-based analyses.
 
