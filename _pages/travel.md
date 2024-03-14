@@ -37,10 +37,9 @@ gallery:
     url: photographs/pakistan.lahore1.jpeg
     title: "Rainbow after the rain @ Badshahi Mosqueبادشاہی مسجد, Lahore, Pakistan (June, 2016)"
 
-- image_path: photographs/japan.saku1.jpeg
-    url: photographs/japan.saku1.jpeg
-    title: "Home @ Saku (佐久市), Nagano (長野県), Japan (March, 2024)"    
-   
+  - image_path: photographs/japan.saku1.jpeg
+      url: photographs/japan.saku1.jpeg
+      title: "Home @ Saku (佐久市), Nagano (長野県), Japan (March, 2024)"    
 ---
 
 <center><p align="center">
