@@ -26,8 +26,11 @@ While phylogenetic networks can model more complex biological histories that the
 The surge in genome-scale data has revolutionized hybridization studies, shifting focus from merely detecting the presence or absence of hybrids in nature to investigating their genomic constitution and evolutionary dynamics. Despite several statistically sounding methods are available, accurate detection of hybridization from genomic data remains a challenging task, particularly under certain biological scenarios (e.g., ancient and/or asymmetric hybridization and high amount of incomplete lineage sorting). Using simulation, I have presented that site-pattern-frequency-based methods are more reliable in detecting hybridization and estimating relevant parameters than population clustering methods in various biological scenarios. Through collaboration with biologists, I am investigating evolutionary histories in biological systems suspected of hybridization. However, I argue in that results from hybrid detection methods should be cautiously interpreted, as they can be sometimes unreliable, for instance, in the presence of parthenogenetic hybrids. Recently, I contributed in developing a novel hybrid detection method using likelihood ratio test.
 
 ### Relevant publications
-- [Comparative Performance of Popular Methods for Hybrid Detection using Genomic Data](https://doi.org/10.1093/sysbio/syaa092)
-
+- [Comparative performance of popular methods for hybrid detection using genomic data](https://doi.org/10.1093/sysbio/syaa092)
+- [Anchored hybrid enrichment resolves the *Lacunicambarus* (Decapoda: Cambaridae) phylogeny](https://doi.org/10.1093/jcbiol/ruab073)
+- [Digest: Frequent hybridization in *Darevskia* rarely leads to the evolution of asexuality](https://doi.org/10.1111/evo.14462)
+- [There and Back Again: The Unexpected Journeys of *Metridium* de Blainville, 1824 between the Old Oceans and throughout the Modern World](https://doi.org/10.1086/723800)
+- [A Likelihood Ratio Test for Hybridization Under the Multispecies Coalescent](https://doi.org/10.1101/2023.06.20.545699)
 
 
 
