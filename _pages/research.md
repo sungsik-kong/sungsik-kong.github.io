@@ -33,29 +33,11 @@ The surge in genome-scale data has revolutionized hybridization studies, shiftin
 - [A likelihood ratio test for hybridization under the multispecies coalescent](https://doi.org/10.1101/2023.06.20.545699)
 
 
-
-
-
-## Expanding the network space
-
-## Application of phylogenies to the real-world problems
-
-
-## Advancement of machine learning in evolutionary biology
-
 ## Theoretical evaluation of abstract networks in evolutionary investigations
 
-Median-joining (MJ) was proposed as a method for phylogeographical analysis and is enjoying increasing popularity. Herein, we evaluate the efficacy of the approach as originally intended. We show that median-joining networks (MJNs) are theoretically untenable for evolutionary inference, and that confusion has afflicted their use for over 15 years. The approach has two obvious shortcomings: its reliance on distance-based phenetics (overall similarity instead of character transformations) and the lack of rooting (no direction or history). Given that evolution involves both change and time, and the absence of rooting removes time (ancestor–descendant relationships) from the equation, the approach cannot yield defensible evolutionary interpretations. We also examine the impact of MJ analyses on evolutionary biology via an analysis of citations and conclude that the spread of MJNs through the literature is difficult to explain, especially given the availability of character-based analyses.
+Two types of networks are being used in practice: *abstract* and *explicit* networks. It is crucial to distinguish between abstract networks, drawn to depict non-tree-like signals in the data without modeling the causes of this deviation, and approaches modeling violations of tree-like evolution due to biological processes like hybridization. I focus on the popular abstract network method that computes Median-Joining Networks (MJNs), which is primarily designed to visualize patterns and conflicting signals in DNA data. I have philosophically criticized the use of MJNs in evolutionary investigations due to inherent unrealistic assumptions and algorithmic limitations. I have criticized the inappropriate use and over-interpretation of MJN in understanding the evolution of SARS-CoV-2. Moreover, I analyzed 85 published datasets, revealing significant differences between relationships computed in MJN and those estimated in Bayesian phylogeny in over one-third of cases. This conclusion reinforces the decades-old recognition that phenetic-based algorithms are not a defensible way to hypothesize evolutionary relationships. Despite its inappropriateness, MJN remains popular, leading to indiscriminate usage in various applications.
 
 ### Publications
- <a href="https://doi.org/10.1111/cla.12147">On the use of median-joining networks in evolutionary biology</a><br>
- <a href="https://doi.org/10.1073/pnas.2007062117">Median-joining network analysis of SARS-CoV-2 genomes is neither phylogenetic nor evolutionary</a>
-
-
-
-
-## Methods for hybrid detection using genomic dataset
-
-We used simulated data to comparatively evaluate the performance of four tools that are commonly used to infer hybridization events: HyDe, the D-statistic, structure and ADMIXTURE. We consider single hybridization scenarios that vary in the time of hybridization and the amount of incomplete lineage sorting (ILS) for different proportions of parental contributions (⁠γ⁠); introgressive hybridization; multiple hybridization scenarios; and a mixture of ancestral and recent hybridization scenarios. We focus on the statistical power to detect hybridization and the false discovery rate (FDR) for comparisons of the D-statistic and HyDe, and the accuracy of the estimates of γ as measured by the mean squared error for HyDe, structure, and ADMIXTURE. Both HyDe and the D-statistic are powerful for detecting hybridization in all scenarios except those with high ILS, although the D-statistic often has an unacceptably high FDR. The estimates of γ in HyDe are impressively robust and accurate whereas structure and ADMIXTURE sometimes fail to identify hybrids, particularly when the proportional parental contributions are asymmetric. Moreover, the posterior distribution estimated using structure exhibits multimodality in many scenarios, making interpretation difficult. 
-
-### Publications
+- [On the use of median-joining networks in evolutionary biology](https://doi.org/10.1111/cla.12147)
+- [Median-joining network analysis of SARS-CoV-2 genomes is neither phylogenetic nor evolutionary](https://doi.org/10.1073/pnas.2007062117)
+- [Median-joining networks and Bayesian phylogenies often do not tell the same story](https://doi.org/10.18061/bssb.v2i1.9625)
