@@ -37,8 +37,8 @@ gallery:
     url: photographs/pakistan.lahore1.jpeg
     title: "Rainbow after the rain @ Badshahi Mosqueبادشاہی مسجد, Lahore, Pakistan (June, 2016)"
   
-  - image_path: photographs/usa.chicag1.jpeg
-    url: photographs/usa.chicag1.jpeg
+  - image_path: photographs/usa.chicago1.jpeg
+    url: photographs/usa.chicago1.jpeg
     title: "With Phil @ Chicago, USA (December, 2023)"  
 
   - image_path: photographs/japan.saku1.jpeg
