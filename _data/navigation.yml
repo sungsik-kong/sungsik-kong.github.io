@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "CV"
-    url: "https://www.dropbox.com/scl/fi/q6r56ejzfie6s00iyejh1/Kong_CV.pdf?rlkey=eb8llskjhju9elodad3e1dxsm&st=vw2brzou&dl=0"
+  #- title: "CV"
+  #  url: "https://www.dropbox.com/scl/fi/q6r56ejzfie6s00iyejh1/Kong_CV.pdf?rlkey=eb8llskjhju9elodad3e1dxsm&st=vw2brzou&dl=0"
 
-  - title: "CVx1"
+  - title: "CV"
     url: "https://sungsik-kong.github.io/cv/Kong_CV.pdf"
     
   - title: "Research"
