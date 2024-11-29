@@ -12,4 +12,4 @@ redirect_from:
 
 <p>I conferred B.Sc. and M.Sc. at <a href="https://www.utoronto.ca">University of Toronto</a>, Canada, where I studied evolutionary biology and phylogenetics, advised by Dr. Robert Murphy. I also studied the evolution of Primate behavior with Dr. Deborah McLennan. I spent many years with <a href="http://ericdavies.ca">Eric Davies</a> at Urban Biodiversity and Forestry Laboratory as a Biodiversity Technician. Moreover, I worked as a researcher at <a href="http://www.ewha.ac.kr">Ewha Womans University</a> in Seoul, South Korea, with Drs. Yikweon Jang and Jae Chun Choe.</p>
 
-<--a href="https://info.flagcounter.com/tkmB"><img src="https://s05.flagcounter.com/count/tkmB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a-->
+<a href="https://info.flagcounter.com/tkmB"><img src="https://s05.flagcounter.com/count/tkmB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
