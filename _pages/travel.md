@@ -59,6 +59,6 @@ gallery:
 {% include gallery caption="" %}
 
 ## Visited
-<iframe width=905 height=455
+<iframe width=901 height=451
 src="https://beeneverywhere.net/usermap/3663?width=900&height=450"
 title="test titile"></iframe>
