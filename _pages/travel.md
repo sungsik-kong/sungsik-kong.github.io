@@ -54,7 +54,9 @@ gallery:
 
 ## Some travel notes
 <a href="/travel/2020/06/blog-post-travel-3/">Wandering in the Himalayas: Route to EBC</a>
-<a href="https://youtu.be/LcoVNKwLCiI?si=wl9TCd8SJDDuv1OR">PhyloCycle 2024: 100 mile bike trip through Rhode Island, Massachusetts, and Connecticut (Video by Laura Kubatko)</a>
+
+<a href="https://youtu.be/LcoVNKwLCiI?si=wl9TCd8SJDDuv1OR" target="_blank" rel="noopener noreferrer">PhyloCycle 2024: 
+100 mile bike trip through RI, MA, and CT (Video by Laura Kubatko)</a>
 
 ## Photo gallery
 {% include gallery caption="" %}
