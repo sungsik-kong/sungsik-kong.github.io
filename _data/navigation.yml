@@ -12,13 +12,10 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/
-  
-
   - title: "Posts"
     url: /posts/
 
-
   - title: "Travel"
     url: /travel/
+#- title: "Teaching"
+#url: /teaching/ 
