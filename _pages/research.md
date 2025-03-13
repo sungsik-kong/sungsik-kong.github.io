@@ -11,8 +11,8 @@ redirect_from:
 
 I am a **computational evolutionary biologist** who focuses on developing methods that quantitatively analyze large genomic data to answer questions arising in biology, using techniques and concepts from statistics, mathematics, and computer science. The overarching theme of my research topics is to infer hybridization and phylogenetic networks using genomic data. My curiosity is not confined to a particular system but extends to all forms of life. 
 
-## Inferring phylogenetic networks from the sequence data
-
+## Inferring phylogenetic networks from the sequence data using composite likelihood
+![N](/Users/khaosan/Dropbox/sungsik-kong.github.io/images/network.png)
 <!-- create a logo for phynest and insert -->
 While phylogenetic networks can model more complex biological histories that the bifurcating trees cannot, the use of networks in evolutionary investigations is limited by the inability of existing methods to handle large datasets due to their algorithmic complexity. I propose a novel method, **PhyNEST** (Phylogenetic Network Estimation using SiTe Patterns), for inferring phylogenetic networks directly from sequence data. **PhyNEST** achieves computational efficiency by employing the composite likelihood framework in the network setting and accuracy by incorporating all sources of variability in genome data through quartet site pattern frequencies. Composite likelihood approximates the likelihood; however, it has been shown to be extremely useful in phylogenetic context and may offer a promising direction to alleviate the computational burden required to compute the full likelihood. The method is implemented in publicly available, open-source software [[download at github]](https://github.com/sungsik-kong/PhyNEST.jl).
 
