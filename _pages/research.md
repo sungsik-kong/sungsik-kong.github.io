@@ -38,7 +38,7 @@ The surge in genome-scale data has revolutionized hybridization studies, shiftin
 
 ## Theoretical evaluation of abstract networks in evolutionary investigations
 <center><p align="center">
-  <img width="300" height="400" src="/images/mjn.jpg" align="left">
+  <img width="450" height="400" src="/images/mjn.jpg" align="left">
 </p></center>
 Two types of networks are being used in practice: *abstract* and *explicit* networks. It is crucial to distinguish between abstract networks, drawn to depict non-tree-like signals in the data without modeling the causes of this deviation, and approaches modeling violations of tree-like evolution due to biological processes like hybridization. I focus on the popular abstract network method that computes Median-Joining Networks (MJNs), which is primarily designed to visualize patterns and conflicting signals in DNA data. I have philosophically criticized the use of MJNs in evolutionary investigations due to inherent unrealistic assumptions and algorithmic limitations. I have criticized the inappropriate use and over-interpretation of MJN in understanding the evolution of SARS-CoV-2. Moreover, I analyzed 85 published datasets, revealing significant differences between relationships computed in MJN and those estimated in Bayesian phylogeny in over one-third of cases. This conclusion reinforces the decades-old recognition that phenetic-based algorithms are not a defensible way to hypothesize evolutionary relationships. Despite its inappropriateness, MJN remains popular, leading to indiscriminate usage in various applications.
 
