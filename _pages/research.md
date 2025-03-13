@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a **computational evolutionary biologist** who focuses on developing methods that quantitatively analyze large genomic data to answer questions arising in biology, using techniques and concepts from statistics and computer science. The overarching theme of my research topics is to infer hybridization and phylogenetic networks using genomic data.
+I am a **computational evolutionary biologist** who focuses on developing methods that quantitatively analyze large genomic data to answer questions arising in biology, using techniques and concepts from statistics, mathematics, and computer science. The overarching theme of my research topics is to infer hybridization and phylogenetic networks using genomic data. My curiosity is not confined to a particular system but extends to all forms of life. 
 
 ## Inferring phylogenetic networks from the sequence data
 
