@@ -31,7 +31,7 @@ author_profile: true
 - **Workshop on Molecular Evolution**, Woods Hole, MA, USA (2023--2025)
 
 
-![Workshop on Molecular Evolution, Woods Hole](../images/iamges/KONG_woods_hole.jpg){: .align-center width="75%" }
+![Workshop on Molecular Evolution, Woods Hole](../../images/iamges/KONG_woods_hole.jpg){: .align-center width="75%" }
 
 ## Miscellaneous Teaching & Outreach
 - **Daruma Eco-Farm**, Chon Buri, Thailand (2016)  
