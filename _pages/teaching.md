@@ -30,6 +30,9 @@ author_profile: true
 ### Teaching Assistant  
 - **Workshop on Molecular Evolution**, Woods Hole, MA, USA (2023--2025)
 
+
+![Workshop on Molecular Evolution, Woods Hole](../images/iamges/KONG_woods_hole.jpg){: .align-center width="75%" }
+
 ## Miscellaneous Teaching & Outreach
 - **Daruma Eco-Farm**, Chon Buri, Thailand (2016)  
 - **Cheong-Shim Int’l School English Camp**, Ga-Pyeong, South Korea (2009)
