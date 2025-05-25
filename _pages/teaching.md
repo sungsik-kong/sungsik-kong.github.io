@@ -17,7 +17,7 @@ author_profile: true
 
 <center>
   <figure style="text-align: center;">
-    <img width="300" height="400" src="/images/images/EEOB3310_sei.png" align="right">
+    <img width="150" height="200" src="/images/images/EEOB3310_sei.png" align="right">
     <figcaption>Student comments for EEOB 3310 Spring semester, 2021. Blocked comment refers to another instructor. </figcaption>
   </figure>
 </center>
