@@ -40,8 +40,8 @@ author_profile: true
 
 <center>
   <figure style="text-align: center;">
-    <img width="150" height="200" src="/images/images/KONG_wood_hole.jpg" align="right">
-    <figcaption>Teaching Introduction to Computing Lab at Workshop on Molecular Evolution, 2024. </figcaption>
+    <img src="/images/images/KONG_wood_hole.jpg" width="100" height="133" style="display: block; margin: 0 auto;">
+    <figcaption>Teaching Introduction to Computing Lab at Workshop on Molecular Evolution, 2024 (Photo by Analisa Milkey).</figcaption>
   </figure>
 </center>
 
