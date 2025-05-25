@@ -41,7 +41,7 @@ author_profile: true
 <center>
   <figure style="text-align: center;">
     <img width="150" height="200" src="/images/images/KONG_wood_hole.jpg" align="right">
-    <figcaption>Student comments for EEOB 3310 Spring semester, 2021. Blocked comment refers to another instructor. </figcaption>
+    <figcaption>Teaching Introduction to Computing Lab at Workshop on Molecular Evolution, 2024. </figcaption>
   </figure>
 </center>
 
