@@ -38,6 +38,13 @@ author_profile: true
 ### Teaching Assistant  
 - **Workshop on Molecular Evolution**, Woods Hole, MA, USA (2023--2025)
 
+<center>
+  <figure style="text-align: center;">
+    <img width="150" height="200" src="/images/images/KONG_wood_hole.jpg" align="right">
+    <figcaption>Student comments for EEOB 3310 Spring semester, 2021. Blocked comment refers to another instructor. </figcaption>
+  </figure>
+</center>
+
 ## Miscellaneous Teaching & Outreach
 - **Daruma Eco-Farm**, Chon Buri, Thailand (2016)  
 - **Cheong-Shim Int’l School English Camp**, Ga-Pyeong, South Korea (2009)
