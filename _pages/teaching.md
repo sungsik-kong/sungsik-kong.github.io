@@ -15,6 +15,14 @@ author_profile: true
 - **EEOB 1930: Introduction to Biological Studies – Aquatic Biology** (Summer 2019)  
 - **BIOL 1113: Energy Transformation and Development** (Fall 2018)
 
+<center>
+  <figure style="text-align: center;">
+    <img width="300" height="400" src="/images/images/EEOB3310_sei.png" align="right">
+    <figcaption>Student comments for EEOB 3310 Spring semester, 2021. Blocked comment refers to another instructor. </figcaption>
+  </figure>
+</center>
+
+
 ### University of Toronto — *Teaching Assistant*
 - **BIO 120: Adaptation and Biodiversity** (Summer 2015, Summer 2014, Fall 2013)  
 - **BIO 220: From Genomics to Ecosystems in a Changing World** (Spring 2015)  
