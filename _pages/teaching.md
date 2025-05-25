@@ -17,7 +17,7 @@ author_profile: true
 
 <center>
   <figure style="text-align: center;">
-    <img src="/images/images/EEOB3310_sei.png" width="100" height="133" style="display: block; margin: 0 auto;">
+    <img src="/images/images/EEOB3310_sei.png" width="100" height="133" style="display: block; margin: 0 auto; border: 1px solid #000;">
     <figcaption>Student comments for EEOB 3310 Spring semester, 2021. Blocked comment refers to another instructor.</figcaption>
   </figure>
 </center>
@@ -40,8 +40,8 @@ author_profile: true
 
 <center>
   <figure style="text-align: center;">
-    <img src="/images/images/KONG_wood_hole.jpg" width="100" height="133" style="display: block; margin: 0 auto;">
-    <figcaption>Teaching Introduction to Computing Lab at Workshop on Molecular Evolution, 2024 (Photo by Analisa Milkey).</figcaption>
+    <img src="/images/images/KONG_wood_hole.jpg" width="100" height="133" style="display: block; margin: 0 auto; border: 1px solid #000;">
+    <figcaption>Leading Introduction to Computing Laboratory at Workshop on Molecular Evolution, 2024 (Photo by Analisa Milkey).</figcaption>
   </figure>
 </center>
 
