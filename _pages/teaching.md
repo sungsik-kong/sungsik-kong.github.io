@@ -18,7 +18,8 @@ author_profile: true
 <center>
   <figure style="text-align: center;">
     <img src="/images/images/EEOB3310_sei.png" width="100" height="133" style="display: block; margin: 0 auto; border: 1px solid #000;">
-  </figure>
+    <figcaption>Student comments for EEOB 3310 (Spring semester, 2021) at The Ohio State University.</figcaption>
+</figure>
 </center>
 
 
