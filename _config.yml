@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sungsik Kong"
 title_separator          : "-"
 name                     : &name "Sungsik Kong"
-description              : &description "Postdoctoral Fellow at ICERM"
+description              : &description "Research scientist at RIKEN"
 url                      : https://sungsik-kong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sungsik-kong.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Sungsik Kong"
   avatar           : "kong_profile.jpg"
-  bio              : "Postdoctoral Fellow at ICERM"
-  location         : "Providence, RI"
+  bio              : "Research scientist at RIKEN"
+  location         : "Saitama, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UQFcoZoAAAAJ&hl=en"
