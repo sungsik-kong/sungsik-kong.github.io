@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sungsik Kong"
+title: "Front page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
