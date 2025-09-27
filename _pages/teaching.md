@@ -36,7 +36,7 @@ author_profile: true
 - **Squamish BEAST Tamers: Taming the BEAST**, Squamish, BC, Canada (2023)
 
 ### Teaching Assistant  
-- **Workshop on Molecular Evolution**, Woods Hole, MA, USA (2023--2025)
+- **Workshop on Molecular Evolution** <a href="https://molevolworkshop.github.io">[link]</a> , Woods Hole, MA, USA (2023--2025)
 
 <center>
   <figure style="text-align: center;">
