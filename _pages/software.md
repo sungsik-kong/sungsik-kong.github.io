@@ -24,9 +24,9 @@ author_profile: true
 
 ---
 
-### [SymbolicQuartetNetworkCoal.jl](https://github.com/sungsik-kong/SymbolicQuartetNetworkCoal.jl)
+### [SymbolicQuartetCF.jl](https://github.com/sungsik-kong/SymbolicQuartetCF.jl)
 **Symbolic Computation of Expected Quartet Concordance Factors**  
-`SymbolicQuartetNetworkCoal.jl` is a Julia package for symbolically computing expected concordance factors under the network multispecies coalescent model. It supports exact symbolic derivations and is ideal for theoretical work and benchmarking.
+`SymbolicQuartetCF.jl` is a Julia package for symbolically computing expected concordance factors under the network multispecies coalescent model. It supports exact symbolic derivations and is ideal for theoretical work and benchmarking.
 
 - Derives closed-form expressions for concordance factors
 - Supports both tree and reticulate topologies
@@ -34,7 +34,7 @@ author_profile: true
 - Built using Julia’s symbolic computation libraries
 
 > **Status**: Research-ready | **License**: MIT  
-> 🔗 [View on GitHub](https://github.com/sungsik-kong/SymbolicQuartetNetworkCoal.jl)
+> 🔗 [View on GitHub](https://github.com/sungsik-kong/SymbolicQuartetCF.jl)
 
 ---
 
