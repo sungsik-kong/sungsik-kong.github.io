@@ -14,8 +14,6 @@ redirect_from:
 
 <p>I received my Ph.D. in <a href="https://eeob.osu.edu">Evolution, Ecology and Organismal Biology</a> at <a href="https://www.osu.edu">the Ohio State University</a> advised by Dr. <a href="https://www.asc.ohio-state.edu/kubatko.2/">Laura Kubatko</a>. I conferred B.Sc. and M.Sc. at <a href="https://www.utoronto.ca">University of Toronto</a>, Canada, where I studied evolutionary biology and phylogenetics, advised by Dr. Robert Murphy. I also studied the evolution of Primate behavior with Dr. Deborah McLennan. Moreover, I worked as a researcher at <a href="http://www.ewha.ac.kr">Ewha Womans University</a> in Seoul, South Korea, with Drs. Yikweon Jang and Jae Chun Choe.</p>
 
-<div style="display: flex; justify-content: flex-end;">
   <a href="https://info.flagcounter.com/tkmB">
     <img src="https://s05.flagcounter.com/count/tkmB/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
-</div>
